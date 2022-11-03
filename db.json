@@ -1,11 +1,9 @@
 {
-  "admin": {
-    "exchanges": [
-      {
-        "id": 1,
-        "name": "coinbase",
-        "isActive": true
-      }
-    ]
-  }
+  "exchanges": [
+    {
+      "id": 1,
+      "name": "coinbase",
+      "isActive": true
+    }
+  ]
 }
